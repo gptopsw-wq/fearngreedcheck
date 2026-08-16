@@ -2,4 +2,4 @@ requests
 beautifulsoup4
 pandas
 numpy
-FinanceDataReader
+finance-datareader
